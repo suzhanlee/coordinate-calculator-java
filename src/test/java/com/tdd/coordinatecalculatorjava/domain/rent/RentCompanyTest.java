@@ -1,4 +1,4 @@
-package com.tdd.coordinatecalculatorjava.domain;
+package com.tdd.coordinatecalculatorjava.domain.rent;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
